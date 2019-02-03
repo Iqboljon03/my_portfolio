@@ -4,8 +4,8 @@
   "description": "My Portfolio",
   "main": "index.js",
   "homepage": "https://Iqboljon03.github.io/my_portfolio",
-  "scripts": "gh-pages -d main"
-    "deploy":
+  "scripts":
+    "deploy": "gh-pages -d main",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
