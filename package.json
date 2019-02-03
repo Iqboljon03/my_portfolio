@@ -1,0 +1,21 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "My Portfolio",
+  "main": "index.js",
+  "homepage": "https://Iqboljon03.github.io/my_portfolio",
+  "scripts": "gh-pages -d main"
+    "deploy":
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iqboljon03/my_portfolio.git"
+  },
+  "author": "Iqboljon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iqboljon03/my_portfolio/issues"
+  },
+  "homepage": "https://github.com/Iqboljon03/my_portfolio#readme"
+}
